@@ -580,6 +580,9 @@ a:focus {
 .avatar {
  /* display: none;*/
 }
+.wp-user-avatar {
+  display:table;
+}
 .reply {
   display: none;
 }
