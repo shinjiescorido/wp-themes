@@ -583,6 +583,9 @@ a:focus {
 .wp-user-avatar {
   display:table;
 }
+.html5gallery-elem-img-1 a div {
+ display:none !important;
+}
 .reply {
   display: none;
 }
